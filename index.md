@@ -14,8 +14,6 @@ hero_image_ratio: is-1by1
 Elève ingénieur en cycle pre-ingénieur
 
 
-
-
 [matthieu.dossantos@etu.picardie.fr](mailto:Prenom.Nom@xxx.com)
 
 
