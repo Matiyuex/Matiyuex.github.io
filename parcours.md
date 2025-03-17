@@ -8,10 +8,10 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2025`
+**UniLaSalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
+Elève en cycle pré-ingénieur
 * Cours : préciser les cours en phase avec le poste visé
 
 `20XX – 20XX`
