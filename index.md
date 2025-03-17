@@ -14,9 +14,10 @@ Elève ingénieur en cycle pre-ingénieur
 
 
 
-[matthieu.dossantos[at]etu.picardie.fr](mailto:Prenom.Nom@xxx.com)
+[matthieu.dossantos@etu.picardie.fr](mailto:Prenom.Nom@xxx.com)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
 Permis B, voiture
+
+BAFA
 
